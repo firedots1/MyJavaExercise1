@@ -1,4 +1,4 @@
-//Java Program for displaying diferrent types of variables//. 
+//Java Program for displaying diferrent types of variables.// 
 
 //This is project, an list of different types of variables are displayed in a print out.//
 
